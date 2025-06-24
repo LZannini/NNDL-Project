@@ -1,107 +1,108 @@
+
 Hidden Size: 32, Batch Size: 1
-Epoch 1: Train Loss = 0.4764, Test Acc = 0.9120
-Epoch 2: Train Loss = 0.2625, Test Acc = 0.9260
-Epoch 3: Train Loss = 0.2137, Test Acc = 0.9324
-Epoch 4: Train Loss = 0.1735, Test Acc = 0.9296
-Epoch 5: Train Loss = 0.1617, Test Acc = 0.9332
-Epoch 6: Train Loss = 0.1396, Test Acc = 0.9300
-Epoch 7: Train Loss = 0.1273, Test Acc = 0.9348
-Epoch 8: Train Loss = 0.1242, Test Acc = 0.9332
-Epoch 9: Train Loss = 0.1036, Test Acc = 0.9368
-Epoch 10: Train Loss = 0.0933, Test Acc = 0.9384
+Epoch 1: Train Loss = 0.4762, Val Loss = 0.3590, Test Acc = 0.8972
+Epoch 2: Train Loss = 0.2634, Val Loss = 0.3609, Test Acc = 0.9192
+Epoch 3: Train Loss = 0.2128, Val Loss = 0.3329, Test Acc = 0.9196
+Epoch 4: Train Loss = 0.1707, Val Loss = 0.3404, Test Acc = 0.9252
+Epoch 5: Train Loss = 0.1549, Val Loss = 0.2965, Test Acc = 0.9364
+Epoch 6: Train Loss = 0.1249, Val Loss = 0.3526, Test Acc = 0.9344
+Epoch 7: Train Loss = 0.1168, Val Loss = 0.3678, Test Acc = 0.9328
+Epoch 8: Train Loss = 0.1264, Val Loss = 0.3760, Test Acc = 0.9320
+Epoch 9: Train Loss = 0.0994, Val Loss = 0.4547, Test Acc = 0.9352
+Epoch 10: Train Loss = 0.0895, Val Loss = 0.4409, Test Acc = 0.9292
 
 Hidden Size: 32, Batch Size: 32
-Epoch 1: Train Loss = 0.9936, Test Acc = 0.8748
-Epoch 2: Train Loss = 0.4433, Test Acc = 0.9028
-Epoch 3: Train Loss = 0.3649, Test Acc = 0.9108
-Epoch 4: Train Loss = 0.3268, Test Acc = 0.9176
-Epoch 5: Train Loss = 0.3011, Test Acc = 0.9224
-Epoch 6: Train Loss = 0.2812, Test Acc = 0.9212
-Epoch 7: Train Loss = 0.2667, Test Acc = 0.9212
-Epoch 8: Train Loss = 0.2502, Test Acc = 0.9248
-Epoch 9: Train Loss = 0.2381, Test Acc = 0.9272
-Epoch 10: Train Loss = 0.2266, Test Acc = 0.9324
+Epoch 1: Train Loss = 1.1607, Val Loss = 0.5800, Test Acc = 0.8676
+Epoch 2: Train Loss = 0.4876, Val Loss = 0.4206, Test Acc = 0.8888
+Epoch 3: Train Loss = 0.3873, Val Loss = 0.3645, Test Acc = 0.8968
+Epoch 4: Train Loss = 0.3406, Val Loss = 0.3469, Test Acc = 0.9032
+Epoch 5: Train Loss = 0.3131, Val Loss = 0.3272, Test Acc = 0.9060
+Epoch 6: Train Loss = 0.2903, Val Loss = 0.3103, Test Acc = 0.9088
+Epoch 7: Train Loss = 0.2709, Val Loss = 0.3006, Test Acc = 0.9120
+Epoch 8: Train Loss = 0.2560, Val Loss = 0.2952, Test Acc = 0.9140
+Epoch 9: Train Loss = 0.2418, Val Loss = 0.2874, Test Acc = 0.9152
+Epoch 10: Train Loss = 0.2289, Val Loss = 0.2805, Test Acc = 0.9144
 
 Hidden Size: 32, Batch Size: 10000
-Epoch 1: Train Loss = 2.3394, Test Acc = 0.1484
-Epoch 2: Train Loss = 2.3194, Test Acc = 0.1632
-Epoch 3: Train Loss = 2.3005, Test Acc = 0.1748
-Epoch 4: Train Loss = 2.2823, Test Acc = 0.1924
-Epoch 5: Train Loss = 2.2648, Test Acc = 0.2044
-Epoch 6: Train Loss = 2.2480, Test Acc = 0.2156
-Epoch 7: Train Loss = 2.2316, Test Acc = 0.2320
-Epoch 8: Train Loss = 2.2158, Test Acc = 0.2456
-Epoch 9: Train Loss = 2.2003, Test Acc = 0.2596
-Epoch 10: Train Loss = 2.1851, Test Acc = 0.2760
+Epoch 1: Train Loss = 2.3651, Val Loss = 2.3526, Test Acc = 0.1004
+Epoch 2: Train Loss = 2.3466, Val Loss = 2.3357, Test Acc = 0.1160
+Epoch 3: Train Loss = 2.3293, Val Loss = 2.3197, Test Acc = 0.1308
+Epoch 4: Train Loss = 2.3129, Val Loss = 2.3046, Test Acc = 0.1460
+Epoch 5: Train Loss = 2.2974, Val Loss = 2.2901, Test Acc = 0.1596
+Epoch 6: Train Loss = 2.2826, Val Loss = 2.2761, Test Acc = 0.1736
+Epoch 7: Train Loss = 2.2682, Val Loss = 2.2623, Test Acc = 0.1884
+Epoch 8: Train Loss = 2.2542, Val Loss = 2.2488, Test Acc = 0.2016
+Epoch 9: Train Loss = 2.2404, Val Loss = 2.2356, Test Acc = 0.2192
+Epoch 10: Train Loss = 2.2270, Val Loss = 2.2225, Test Acc = 0.2396
 
 Hidden Size: 64, Batch Size: 1
-Epoch 1: Train Loss = 0.4431, Test Acc = 0.9032
-Epoch 2: Train Loss = 0.2222, Test Acc = 0.9276
-Epoch 3: Train Loss = 0.1644, Test Acc = 0.9416
-Epoch 4: Train Loss = 0.1218, Test Acc = 0.9376
-Epoch 5: Train Loss = 0.0889, Test Acc = 0.9340
-Epoch 6: Train Loss = 0.0912, Test Acc = 0.9520
-Epoch 7: Train Loss = 0.0643, Test Acc = 0.9532
-Epoch 8: Train Loss = 0.0642, Test Acc = 0.9472
-Epoch 9: Train Loss = 0.0510, Test Acc = 0.9456
-Epoch 10: Train Loss = 0.0382, Test Acc = 0.9388
+Epoch 1: Train Loss = 0.4381, Val Loss = 0.3480, Test Acc = 0.9012
+Epoch 2: Train Loss = 0.2332, Val Loss = 0.3431, Test Acc = 0.9028
+Epoch 3: Train Loss = 0.1531, Val Loss = 0.3416, Test Acc = 0.9196
+Epoch 4: Train Loss = 0.0994, Val Loss = 0.2783, Test Acc = 0.9404
+Epoch 5: Train Loss = 0.0666, Val Loss = 0.2711, Test Acc = 0.9404
+Epoch 6: Train Loss = 0.0711, Val Loss = 0.2311, Test Acc = 0.9488
+Epoch 7: Train Loss = 0.0348, Val Loss = 0.3642, Test Acc = 0.9300
+Epoch 8: Train Loss = 0.0299, Val Loss = 0.2809, Test Acc = 0.9528
+Epoch 9: Train Loss = 0.0115, Val Loss = 0.2602, Test Acc = 0.9500
+Epoch 10: Train Loss = 0.0080, Val Loss = 0.2432, Test Acc = 0.9532
 
 Hidden Size: 64, Batch Size: 32
-Epoch 1: Train Loss = 0.9873, Test Acc = 0.8868
-Epoch 2: Train Loss = 0.4350, Test Acc = 0.9044
-Epoch 3: Train Loss = 0.3561, Test Acc = 0.9108
-Epoch 4: Train Loss = 0.3185, Test Acc = 0.9176
-Epoch 5: Train Loss = 0.2915, Test Acc = 0.9204
-Epoch 6: Train Loss = 0.2693, Test Acc = 0.9272
-Epoch 7: Train Loss = 0.2530, Test Acc = 0.9280
-Epoch 8: Train Loss = 0.2377, Test Acc = 0.9284
-Epoch 9: Train Loss = 0.2243, Test Acc = 0.9296
-Epoch 10: Train Loss = 0.2124, Test Acc = 0.9304
+Epoch 1: Train Loss = 1.1457, Val Loss = 0.5690, Test Acc = 0.8628
+Epoch 2: Train Loss = 0.4779, Val Loss = 0.4097, Test Acc = 0.8944
+Epoch 3: Train Loss = 0.3800, Val Loss = 0.3550, Test Acc = 0.9004
+Epoch 4: Train Loss = 0.3329, Val Loss = 0.3290, Test Acc = 0.9104
+Epoch 5: Train Loss = 0.3037, Val Loss = 0.3078, Test Acc = 0.9140
+Epoch 6: Train Loss = 0.2806, Val Loss = 0.2958, Test Acc = 0.9160
+Epoch 7: Train Loss = 0.2618, Val Loss = 0.2863, Test Acc = 0.9144
+Epoch 8: Train Loss = 0.2462, Val Loss = 0.2772, Test Acc = 0.9172
+Epoch 9: Train Loss = 0.2319, Val Loss = 0.2714, Test Acc = 0.9204
+Epoch 10: Train Loss = 0.2202, Val Loss = 0.2637, Test Acc = 0.9240
 
 Hidden Size: 64, Batch Size: 10000
-Epoch 1: Train Loss = 2.3332, Test Acc = 0.0880
-Epoch 2: Train Loss = 2.3165, Test Acc = 0.1008
-Epoch 3: Train Loss = 2.3002, Test Acc = 0.1160
-Epoch 4: Train Loss = 2.2843, Test Acc = 0.1344
-Epoch 5: Train Loss = 2.2686, Test Acc = 0.1660
-Epoch 6: Train Loss = 2.2532, Test Acc = 0.1908
-Epoch 7: Train Loss = 2.2380, Test Acc = 0.2140
-Epoch 8: Train Loss = 2.2230, Test Acc = 0.2340
-Epoch 9: Train Loss = 2.2081, Test Acc = 0.2564
-Epoch 10: Train Loss = 2.1933, Test Acc = 0.2788
+Epoch 1: Train Loss = 2.2919, Val Loss = 2.2817, Test Acc = 0.1040
+Epoch 2: Train Loss = 2.2763, Val Loss = 2.2665, Test Acc = 0.1156
+Epoch 3: Train Loss = 2.2611, Val Loss = 2.2517, Test Acc = 0.1292
+Epoch 4: Train Loss = 2.2463, Val Loss = 2.2372, Test Acc = 0.1460
+Epoch 5: Train Loss = 2.2318, Val Loss = 2.2230, Test Acc = 0.1672
+Epoch 6: Train Loss = 2.2176, Val Loss = 2.2090, Test Acc = 0.1948
+Epoch 7: Train Loss = 2.2036, Val Loss = 2.1952, Test Acc = 0.2180
+Epoch 8: Train Loss = 2.1898, Val Loss = 2.1816, Test Acc = 0.2500
+Epoch 9: Train Loss = 2.1761, Val Loss = 2.1681, Test Acc = 0.2764
+Epoch 10: Train Loss = 2.1625, Val Loss = 2.1546, Test Acc = 0.3048
 
 Hidden Size: 128, Batch Size: 1
-Epoch 1: Train Loss = 0.3999, Test Acc = 0.9304
-Epoch 2: Train Loss = 0.2023, Test Acc = 0.9432
-Epoch 3: Train Loss = 0.1376, Test Acc = 0.9464
-Epoch 4: Train Loss = 0.0848, Test Acc = 0.9396
-Epoch 5: Train Loss = 0.0616, Test Acc = 0.9612
-Epoch 6: Train Loss = 0.0448, Test Acc = 0.9488
-Epoch 7: Train Loss = 0.0380, Test Acc = 0.9588
-Epoch 8: Train Loss = 0.0239, Test Acc = 0.9612
-Epoch 9: Train Loss = 0.0139, Test Acc = 0.9640
-Epoch 10: Train Loss = 0.0066, Test Acc = 0.9668
+Epoch 1: Train Loss = 0.4055, Val Loss = 0.3197, Test Acc = 0.9076
+Epoch 2: Train Loss = 0.1811, Val Loss = 0.2547, Test Acc = 0.9204
+Epoch 3: Train Loss = 0.1122, Val Loss = 0.1907, Test Acc = 0.9484
+Epoch 4: Train Loss = 0.0786, Val Loss = 0.1891, Test Acc = 0.9556
+Epoch 5: Train Loss = 0.0510, Val Loss = 0.1934, Test Acc = 0.9568
+Epoch 6: Train Loss = 0.0252, Val Loss = 0.2677, Test Acc = 0.9456
+Epoch 7: Train Loss = 0.0209, Val Loss = 0.2440, Test Acc = 0.9540
+Epoch 8: Train Loss = 0.0149, Val Loss = 0.2326, Test Acc = 0.9548
+Epoch 9: Train Loss = 0.0052, Val Loss = 0.2086, Test Acc = 0.9596
+Epoch 10: Train Loss = 0.0028, Val Loss = 0.2055, Test Acc = 0.9612
 
 Hidden Size: 128, Batch Size: 32
-Epoch 1: Train Loss = 0.9404, Test Acc = 0.8956
-Epoch 2: Train Loss = 0.4179, Test Acc = 0.9108
-Epoch 3: Train Loss = 0.3468, Test Acc = 0.9140
-Epoch 4: Train Loss = 0.3081, Test Acc = 0.9216
-Epoch 5: Train Loss = 0.2818, Test Acc = 0.9244
-Epoch 6: Train Loss = 0.2609, Test Acc = 0.9284
-Epoch 7: Train Loss = 0.2421, Test Acc = 0.9272
-Epoch 8: Train Loss = 0.2266, Test Acc = 0.9292
-Epoch 9: Train Loss = 0.2128, Test Acc = 0.9304
-Epoch 10: Train Loss = 0.2004, Test Acc = 0.9332
+Epoch 1: Train Loss = 1.0718, Val Loss = 0.5545, Test Acc = 0.8640
+Epoch 2: Train Loss = 0.4634, Val Loss = 0.4005, Test Acc = 0.8928
+Epoch 3: Train Loss = 0.3676, Val Loss = 0.3502, Test Acc = 0.8944
+Epoch 4: Train Loss = 0.3214, Val Loss = 0.3252, Test Acc = 0.9016
+Epoch 5: Train Loss = 0.2930, Val Loss = 0.3085, Test Acc = 0.9104
+Epoch 6: Train Loss = 0.2698, Val Loss = 0.2919, Test Acc = 0.9132
+Epoch 7: Train Loss = 0.2506, Val Loss = 0.2809, Test Acc = 0.9176
+Epoch 8: Train Loss = 0.2341, Val Loss = 0.2744, Test Acc = 0.9256
+Epoch 9: Train Loss = 0.2192, Val Loss = 0.2625, Test Acc = 0.9244
+Epoch 10: Train Loss = 0.2064, Val Loss = 0.2535, Test Acc = 0.9236
 
 Hidden Size: 128, Batch Size: 10000
-Epoch 1: Train Loss = 2.3180, Test Acc = 0.1436
-Epoch 2: Train Loss = 2.3006, Test Acc = 0.1632
-Epoch 3: Train Loss = 2.2838, Test Acc = 0.1828
-Epoch 4: Train Loss = 2.2674, Test Acc = 0.2076
-Epoch 5: Train Loss = 2.2514, Test Acc = 0.2336
-Epoch 6: Train Loss = 2.2356, Test Acc = 0.2584
-Epoch 7: Train Loss = 2.2202, Test Acc = 0.2932
-Epoch 8: Train Loss = 2.2050, Test Acc = 0.3220
-Epoch 9: Train Loss = 2.1899, Test Acc = 0.3480
-Epoch 10: Train Loss = 2.1751, Test Acc = 0.3724
+Epoch 1: Train Loss = 2.3069, Val Loss = 2.2867, Test Acc = 0.1612
+Epoch 2: Train Loss = 2.2918, Val Loss = 2.2721, Test Acc = 0.1832
+Epoch 3: Train Loss = 2.2769, Val Loss = 2.2577, Test Acc = 0.2072
+Epoch 4: Train Loss = 2.2622, Val Loss = 2.2435, Test Acc = 0.2296
+Epoch 5: Train Loss = 2.2477, Val Loss = 2.2293, Test Acc = 0.2460
+Epoch 6: Train Loss = 2.2334, Val Loss = 2.2153, Test Acc = 0.2608
+Epoch 7: Train Loss = 2.2191, Val Loss = 2.2013, Test Acc = 0.2744
+Epoch 8: Train Loss = 2.2049, Val Loss = 2.1874, Test Acc = 0.2892
+Epoch 9: Train Loss = 2.1908, Val Loss = 2.1734, Test Acc = 0.3044
+Epoch 10: Train Loss = 2.1767, Val Loss = 2.1595, Test Acc = 0.3192
